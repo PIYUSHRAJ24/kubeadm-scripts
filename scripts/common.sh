@@ -18,7 +18,7 @@ sudo apt-get update -y
 
 # Install CRI-O Runtime
 
-OS="xUbuntu_22.04"
+OS="xUbuntu_20.04"
 
 VERSION="1.26"
 
